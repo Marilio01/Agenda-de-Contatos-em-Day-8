@@ -25,9 +25,13 @@ Este é um programa simples de agenda de contatos escrito em Python. Ele permite
 5. Excluir contato
 6. Sair
    Digite sua escolha (1-6): 1
+   
    Digite o nome do contato: João Silva
+   
    Digite o número do contato: (11) 99999-9999
+   
    Digite o email do contato: joao.silva@example.com
+   
    Contato João Silva adicionado à sua agenda com sucesso!
 
 ## Código-fonte:
